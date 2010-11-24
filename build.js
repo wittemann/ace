@@ -33,7 +33,7 @@
                 "ace/mode/javascript",
                 "ace/theme/textmate"
             ],
-            includeRequire: false
+            includeRequire: true
         },
         
         { 
